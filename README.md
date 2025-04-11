@@ -62,7 +62,3 @@
     src="https://github-readme-stats.vercel.app/api?username=CarlosViinicius&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-</div>
- 
-  ![Snake animation](https://github.com/CarlosViinicius/CarlosViinicius/blob/output/github-contribution-grid-snake.svg)
-</div>
